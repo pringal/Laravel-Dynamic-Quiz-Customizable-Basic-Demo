@@ -89,7 +89,7 @@
 
 
                 <div class="container">
-                    <h1>Dynamic Quiz Customizable Basic Demo</h1>
+                    <h1>Laravel Dynamic Quiz Customizable Basic Demo</h1>
                     <div id="quiz">
                         <div id="quiz-header">
 
