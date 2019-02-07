@@ -60,35 +60,7 @@ We would like to extend our thanks to the following sponsors for helping fund on
 
 1. clone package [git clone https://github.com/pringal/Laravel-Dynamic-Quiz-Customizable-Basic-Demo]
 2. install composer dependency [composer install]
-3. Add this HTML in view file
-"<div id="quiz">
-  <div id="quiz-header">
-    <h1>Basic Quiz Demo</h1>
-    <!-- Optionally add a home button -->
-    <p><a id="quiz-home-btn">Home</a></p>
-  </div>
-  <div id="quiz-start-screen">
-    <p><a href="#" id="quiz-start-btn" class="quiz-button">Start</a></p>
-  </div>
-</div>"
-4. JavaScript Code
-"$('#quiz').quiz({
-  questions: [
-    {
-      'q': 'A smaple question?',
-      'options': [
-        'Answer 1',
-        'Answer 2',
-        'Answer 3',
-        'Answer 4'
-      ],
-      'correctIndex': 1,
-      'correctResponse': 'Custom correct response.',
-      'incorrectResponse': 'Custom incorrect response.'
-    }
-  ]
-});
-"
+3. Follow this article <a href="https://codescompanion.com/laravel-dynamic-quiz-customizable-basic-demo/">Steps to follow</a>
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
